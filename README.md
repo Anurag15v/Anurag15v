@@ -2,13 +2,13 @@
 <h3 align='center'>Welcome to my page!</h3>
 </br> 
 <p align='center'>
-I'm Anurag Vaibhav, aspiring Software Developer from <b>Jamshedpur, India</b>, currently studying Mechanical Engineering from IIT Kharagput</p>
+I'm Anurag Vaibhav, aspiring Software Developer from <b>Jamshedpur, India</b>, currently studying Mechanical Engineering from IIT Kharagpur</p>
 <p align='center'>
   I have worked in 5+ startups as Software developer intern.
 </p>
 <h2> 💫 About Me: </h2>
 Ask me about  JavaScript, HTML, CSS,Java, C, NodeJS, C++, Python, SQL, ReactJs, NextJs,ParticleJs, Pandas, NumPy, AWS Deep Composer, AWS DeepRacer, Beautiful Soup, Advanced Excel, Git, Scikit
-Learn, MongoDB, Postman, S3 Bucket, Web Scrapping, DynamoDB, Matplotlib, Mobiscroll 5, React Native, Vimeo, AWS amplify.i
+Learn, MongoDB, Postman, S3 Bucket, Web Scrapping, DynamoDB, Matplotlib, Mobiscroll 5, React Native, Vimeo, AWS amplify.
 
 
 ## 🌐 Socials:
