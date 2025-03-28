@@ -2,7 +2,7 @@
 <h3 align='center'>Welcome to my page!</h3>
 </br> 
 <p align='center'>
-I'm Anurag Vaibhav, aspiring Software Developer from <b>Jamshedpur, India</b>, currently studying at IIT Kharagpur</p>
+I'm Anurag Vaibhav, aspiring Software Developer from <b>Jamshedpur, India</b>, currently working as product developer(Backend) at TCG Digital</p>
 <p align='center'>
   I have worked in 5+ startups as Software developer intern.
 </p>
